@@ -1,4 +1,4 @@
-# 📘 Final Project — Machine Learning Model Comparison
+#  Final Project — Machine Learning Model Comparison
 
 This repository contains a Jupyter notebook focused on **Machine Learning**, **Predictive Modeling**, and **Model Performance Evaluation**.  
 The project demonstrates practical experience in:
@@ -11,25 +11,25 @@ The project demonstrates practical experience in:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ### **1. final_project.ipynb**
 
 A complete machine learning workflow covering:
 
-- 📥 **Data loading** (UCI Heart Disease Dataset)  
-- 🧼 **Data cleaning & preprocessing**  
-- 📊 **Exploratory Data Analysis (EDA)**  
-- ⚙️ **Feature scaling (StandardScaler)**  
-- 🤖 **Model building:**  
+-  **Data loading** (UCI Heart Disease Dataset)  
+-  **Data cleaning & preprocessing**  
+-  **Exploratory Data Analysis (EDA)**  
+-  **Feature scaling (StandardScaler)**  
+-  **Model building:**  
   - Logistic Regression  
   - Random Forest Classifier  
-- 📈 **Performance comparison and inference**  
-- 📝 **Conclusion** on which model performs better  
+-  **Performance comparison and inference**  
+-  **Conclusion** on which model performs better  
 
 ---
 
-## 🚀 How to Use This Repository
+## How to Use This Repository
 
 ### **1. Clone the repository**
 ```bash
@@ -48,7 +48,7 @@ jupyter notebook final_project.ipynb
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 This project uses the following Python libraries:
 
@@ -61,7 +61,7 @@ This project uses the following Python libraries:
 
 ---
 
-## 🧠 Key Highlights
+##  Key Highlights
 
 - Dataset pulled directly from the **UCI Machine Learning Repository**  
 - Feature scaling ensures proper model training  
